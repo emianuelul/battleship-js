@@ -4,8 +4,6 @@ Personal project done as a way to put into practice some TDD and also put into p
 
 Original project along with commit history was on a different repo but it didn't allow me to push to gh-pages so I tried creating a new repo.
 
-You can play the game [here](js-battleship.vercel.app/).
-
 ## THINGS I LEARNED
 
 1. How OOP works in JavaScript
