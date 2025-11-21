@@ -2,6 +2,8 @@
 
 Personal project done as a way to put into practice some TDD and also put into practice what I've learned along the way on the JS Course from The Odin Project. Took me about a week, might return later to add / tweak stuff. Style is basic but that wasn't the main focus.
 
+Original project along with commit history was on a different repo but it didn't allow me to push to gh-pages so I tried creating a new repo.
+
 ## THINGS I LEARNED
 
 1. How OOP works in JavaScript
