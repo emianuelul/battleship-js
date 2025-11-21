@@ -4,7 +4,7 @@ Personal project done as a way to put into practice some TDD and also put into p
 
 Original project along with commit history was on a different repo but it didn't allow me to push to gh-pages so I tried creating a new repo.
 
-You can play the game [here](https://py-code314.github.io/py-code-js-battleship/).
+You can play the game [here](js-battleship-iemi.vercel.app/).
 
 ## THINGS I LEARNED
 
